@@ -26,8 +26,8 @@
             "key": "呦呦DJ",
             "name": "呦呦｜DJ",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/文艺/js/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/文艺/js/呦呦DJ.js"
+            "api": "https://gh-proxy.com/https://github.com/PizazzGY/NewTVBox/blob/main/js/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://github.com/PizazzGY/NewTVBox/blob/main/other/js/YYDJ.js"
         },
         {
             "key": "清风DJ",
