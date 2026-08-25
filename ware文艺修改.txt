@@ -6,8 +6,8 @@
             "key": "播客",
             "name": "播客｜综合",
             "type": 3,
-            "api": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/文艺/js/drpy2.min.js",
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/文艺/js/播客.js"
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/文艺/js/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/文艺/js/播客.js"
         },
         {
             "key": "配置中心",
@@ -26,15 +26,15 @@
             "key": "呦呦DJ",
             "name": "呦呦｜DJ",
             "type": 3,
-            "api": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/文艺/js/drpy2.min.js",
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/文艺/js/呦呦DJ.js"
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/文艺/js/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/文艺/js/呦呦DJ.js"
         },
         {
             "key": "清风DJ",
             "name": "清风｜DJ",
             "type": 3,
-            "api": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/文艺/js/drpy2.min.js",
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/文艺/js/清风DJ.js"
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/文艺/js/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/文艺/js/清风DJ.js"
         },
         {
             "key": "爱车MV",
